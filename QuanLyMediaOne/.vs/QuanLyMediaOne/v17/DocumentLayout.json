@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|d:\\code\\cong nghe phan mem\\quanlylinhkienmaytinh\\quanlylinhkienmaytinh\\danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|solutionrelative:danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|d:\\code\\cong nghe phan mem\\quanlylinhkienmaytinh\\quanlylinhkienmaytinh\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|solutionrelative:profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|d:\\code\\cong nghe phan mem\\quanlylinhkienmaytinh\\quanlylinhkienmaytinh\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|solutionrelative:profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|d:\\code\\cong nghe phan mem\\quanlylinhkienmaytinh\\quanlylinhkienmaytinh\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|solutionrelative:danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|d:\\code\\cong nghe phan mem\\quanlylinhkienmaytinh\\quanlylinhkienmaytinh\\danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|solutionrelative:danhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|d:\\code\\cong nghe phan mem\\quanlylinhkienmaytinh\\quanlylinhkienmaytinh\\danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|solutionrelative:danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|d:\\code\\cong nghe phan mem\\quanlylinhkienmaytinh\\quanlylinhkienmaytinh\\vieworder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6A0FA4-C24D-4D0F-9B6A-4173BC70DA73}|QuanLyLinhKienMayTinh.csproj|solutionrelative:vieworder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\Profile.cs",
+              "RelativeDocumentMoniker": "Profile.cs",
+              "ToolTip": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\Profile.cs",
+              "RelativeToolTip": "Profile.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAwIwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:20:03.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\Profile.cs",
+              "RelativeDocumentMoniker": "Profile.cs",
+              "ToolTip": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\Profile.cs [Design]",
+              "RelativeToolTip": "Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:19:58.563Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DanhSachNhanVien.cs",
+              "DocumentMoniker": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\DanhSachNhanVien.cs",
+              "RelativeDocumentMoniker": "DanhSachNhanVien.cs",
+              "ToolTip": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\DanhSachNhanVien.cs",
+              "RelativeToolTip": "DanhSachNhanVien.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA9wCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:08:29.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DanhSachNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\DanhSachNhanVien.cs",
+              "RelativeDocumentMoniker": "DanhSachNhanVien.cs",
+              "ToolTip": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\DanhSachNhanVien.cs [Design]",
+              "RelativeToolTip": "DanhSachNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:08:22.658Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanhSachKhachHang.cs",
+              "DocumentMoniker": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\DanhSachKhachHang.cs",
+              "RelativeDocumentMoniker": "DanhSachKhachHang.cs",
+              "ToolTip": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\DanhSachKhachHang.cs",
+              "RelativeToolTip": "DanhSachKhachHang.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAvwD8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:05:50.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DanhSachKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\DanhSachKhachHang.cs",
+              "RelativeDocumentMoniker": "DanhSachKhachHang.cs",
+              "ToolTip": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\DanhSachKhachHang.cs [Design]",
+              "RelativeToolTip": "DanhSachKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T11:05:45.191Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewOrder.cs",
+              "DocumentMoniker": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\ViewOrder.cs",
+              "RelativeDocumentMoniker": "ViewOrder.cs",
+              "ToolTip": "D:\\Code\\Cong nghe phan mem\\QuanLyLinhKienMayTinh\\QuanLyLinhKienMayTinh\\ViewOrder.cs",
+              "RelativeToolTip": "ViewOrder.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAvwJEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:57:17.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
